@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author AIERXUAN
+ *
+ */
+module hellojava {
+}
